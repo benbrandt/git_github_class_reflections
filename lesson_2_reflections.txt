@@ -43,3 +43,13 @@ changes in the files and adds the branch commits together on a single timeline.
 It is represented on the diagram the way it is to show how and when the changes
 were made and show what it means for them to come together in one branch. By
 joining them you see that the tip of both branches is now the same commit.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Git's automatic merging is really helpful in reducing the amount of work
+required to combine changes from contributors and branches, but it is helpful
+to do it manually when a guess isn't good enough. By only making you choose
+between relevant changes it helps you focus on the problems that really require
+a developer's eye and lets the computer do the busy work.
