@@ -17,4 +17,13 @@ How can you use the staging area to make sure you have one commit per logical
 change?
 
 You can select to add only the files that were part of a single change, commit
-them and then stage the other files that need to be staged for a separate commit.
+them and then stage the other files that need to be staged for a separate
+commit.
+
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+Branches are helpful for testing out new features or elements without affecting
+the production version of the code. They allow you to make new changes for
+testing and bring them into the master branch at a later time.
