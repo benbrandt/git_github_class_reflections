@@ -27,3 +27,9 @@ organized? How would branches help?
 Branches are helpful for testing out new features or elements without affecting
 the production version of the code. They allow you to make new changes for
 testing and bring them into the master branch at a later time.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you see the flow of commits and changes, and what is and isn't
+included on your current branch.
