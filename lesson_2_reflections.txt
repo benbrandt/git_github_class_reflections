@@ -33,3 +33,13 @@ How do the diagrams help you visualize the branch structure?
 
 Diagrams help you see the flow of commits and changes, and what is and isn't
 included on your current branch.
+
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+Merging two branches together takes the commit history of both and merges those
+changes in the files and adds the branch commits together on a single timeline.
+It is represented on the diagram the way it is to show how and when the changes
+were made and show what it means for them to come together in one branch. By
+joining them you see that the tip of both branches is now the same commit.
