@@ -11,3 +11,16 @@ automatically stay up-to-date with your remote repository?
 It gives you more control over when you receive others' changes to make sure
 a feature someone else is working on doesn't conflict with what you are working
 on locally.
+
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+You clone a git repository to your machine to work on it locally. Forks are
+clones made by GitHub so you can work with the initial repository without
+needing permission to commit to that repository. Branches are on individual
+repositories to allow you to make feature changes without messing up the
+production code. You clone a repository if you just need the code on your
+machine, you fork if you want to work on a repository you don't have access to
+and want to share your code with others, and you branch if you just need to add
+a feature to your own repository.
