@@ -33,3 +33,12 @@ If you have the last known state of the remote stored locally you have access to
 every commit made to the repository, whether you have merged them with your code
 or not. If you ever need those changes you can access them and merge them with
 your local changes as needed.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+Without Git or GitHub you would have to do a lot of manual tracking and sharing
+of files when working with a team. There would be less work checking in your
+changes, but ultimately it would be a lot harder to keep track of what changes
+were made and where bugs were introduced.
