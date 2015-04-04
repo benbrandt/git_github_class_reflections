@@ -24,3 +24,12 @@ production code. You clone a repository if you just need the code on your
 machine, you fork if you want to work on a repository you don't have access to
 and want to share your code with others, and you branch if you just need to add
 a feature to your own repository.
+
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+If you have the last known state of the remote stored locally you have access to
+every commit made to the repository, whether you have merged them with your code
+or not. If you ever need those changes you can access them and merge them with
+your local changes as needed.
