@@ -42,3 +42,13 @@ Without Git or GitHub you would have to do a lot of manual tracking and sharing
 of files when working with a team. There would be less work checking in your
 changes, but ultimately it would be a lot harder to keep track of what changes
 were made and where bugs were introduced.
+
+
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+You want to make changes in a branch when you either need to experiment or add a
+feature that needs to be reviewed before going straight to master. Working in
+master is great if you are just providing a quick fix to keep the production
+code working, but any substantially new code or collaboration should be done in
+a separate branch.
